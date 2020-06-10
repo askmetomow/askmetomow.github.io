@@ -1,3 +1,10 @@
+title: Ask Me to Mow
 name: Ask Me to Mow
 markdown: kramdown
 permalink: /:title
+
+
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: webcodehelp
+# github_username:  webcodehelp
